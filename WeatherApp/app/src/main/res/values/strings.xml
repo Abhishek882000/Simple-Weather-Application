@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="gurugram_haryana">Gurugram, Haryana</string>
+    <string name="current_temprature">Current Temprature :</string>
+    <string name="_01">0</string>
+    <string name="c">C</string>
+    <string name="humidity">Humidity :</string>
+    <string name="_02">0</string>
+    <string name="percentage">%</string>
+    <string name="weather">Weather :</string>
+    <string name="clouds">Clouds</string>
+    <string name="wind_speed">Wind Speed :</string>
+    <string name="_0">0</string>
+    <string name="km_hr">Km/hr</string>
+</resources>
